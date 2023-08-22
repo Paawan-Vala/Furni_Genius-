@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home_Screen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Bed_Scene.unity
+    guid: 271f000c0b15b9f48834c3ae06cf0e4d
+  - enabled: 1
+    path: Assets/Scenes/Chair_Scene.unity
+    guid: 8b54077873c5f2a4a89a8e28a256f6f6
+  - enabled: 1
+    path: Assets/Scenes/Sofa_Scene.unity
+    guid: e69008644dc72e14088250de5be5ceb4
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a971fb93857b5bb4fafb294c33dcd588, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3e9ecaba289a12a4f9300b7067c32ee6, type: 2}
